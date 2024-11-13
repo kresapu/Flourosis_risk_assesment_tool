@@ -2,6 +2,8 @@
   Fluorosis Risk Assessment Tool
 </h1>
 
+https://github.com/kresapu/Flourosis_risk_assesment_tool/blob/main/7xvn8dfg.png
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keerti-reddy&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Keerti Reddy" />
 </p>
