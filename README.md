@@ -35,19 +35,25 @@ The **Fluorosis Risk Assessment Tool** analyzes fluoride concentrations in drink
 - **Pandas** and **Boto3**
 - **AWS Account** (for S3 access)
 
-To install dependencies:
-```bash
-pip install pandas boto3
+### 🎓 Acknowledgements
+CDC: 2014 Water Fluoridation Statistics
+AWS SDK for Python (Boto3): Documentation and examples
+WebMD: Information on fluorosis prevention
 
-🔧 Setup
-Clone the Repository:
-git clone https://github.com/your-username/fluorosis-risk-assessment.gitcd fluorosis-risk-assessment
+---
 
-Configure AWS Credentials:
-aws configure
+### 🏁 Conclusion
+The **Fluorosis Risk Assessment Tool** serves as a practical solution for assessing fluoride exposure and fluorosis risk based on geographic, age, and gender-specific data. By leveraging AWS S3 for data storage and Python for analysis, this tool provides users with valuable insights and preventive recommendations tailored to their individual needs. 
 
-Run the Program
-python fluorosis_assessment.py
+This project is a step toward personalized health assessments and exemplifies how data-driven solutions can contribute to public health awareness. Future expansions could include adding real-time updates, integrating a user-friendly interface, and broadening data sources to further improve accuracy and accessibility. Together, these advancements have the potential to make impactful contributions to dental health and preventive care.
+
+---
+
+<p align="center">
+  <i>Promoting informed health choices through data and innovation.</i>
+</p>
+
+
 
 
 
