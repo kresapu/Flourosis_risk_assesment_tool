@@ -2,7 +2,8 @@
   Fluorosis Risk Assessment Tool
 </h1>
 
-[![Fluorosis Risk Assessment](https://github.com/kresapu/Flourosis_risk_assesment_tool/blob/main/7xvn8dfg.png?raw=true)](https://github.com/kresapu/Flourosis_risk_assesment_tool/blob/main/image)
+![Fluorosis Risk Assessment Tool](https://github.com/kresapu/Flourosis_risk_assesment_tool/blob/main/flourosisrisk_tool.png)
+
 
 
 <p align="center">
