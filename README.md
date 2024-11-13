@@ -1,8 +1,11 @@
-<h1 align="center">
+<h1 align="center" style="font-size: 36px; color: #4CAF50; font-family: 'Arial', sans-serif;">
   Fluorosis Risk Assessment Tool
 </h1>
 
-<img src="https://github.com/kresapu/Flourosis_risk_assesment_tool/blob/main/flourosisrisk_tool.png" alt="Fluorosis Risk Assessment Tool" width="300"/>
+<p align="center">
+  <img src="https://github.com/kresapu/Flourosis_risk_assesment_tool/blob/main/flourosisrisk_tool.png" alt="Fluorosis Risk Assessment Tool" width="300"/>
+</p>
+
 
 
 
