@@ -7,13 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=keerti-reddy&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Keerti Reddy" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/keerti-reddy/readme-typing-svg"> 
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Health+Data+Analyst;Data+Visualization+Expert;Data-Driven+Innovator;Future-Focused+Analyst&center=true&width=500&height=50">
-  </a>
-</p>
 
-<hr/>
 
 ## Project Overview
 The **Fluorosis Risk Assessment Tool** analyzes fluoride concentrations in drinking water and provides a personalized assessment of fluorosis risk based on user-specific factors like age, gender, and region. It leverages data from CDC's Water Fluoridation Statistics and offers actionable preventive recommendations to improve dental health.
