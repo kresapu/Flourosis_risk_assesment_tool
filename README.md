@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 36px; color: #4CAF50; font-family: 'Arial', sans-serif;">
+<h1 align="center" style="font-size: 36px; color: #007BFF; font-family: 'Arial', sans-serif;">
   Fluorosis Risk Assessment Tool
 </h1>
 
